@@ -1,0 +1,12 @@
+C:\Users\gabon\source\repos\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+C:\Users\gabon\source\repos\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabon\source\repos\Autoservice\Autoservice\obj\Debug\Autoservice.Form1.resources
+C:\Users\gabon\source\repos\Autoservice\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+C:\Users\gabon\source\repos\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+C:\Users\gabon\source\repos\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+C:\Users\gabon\source\repos\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+C:\Users\gabon\source\repos\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+C:\Users\gabon\source\repos\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+C:\Users\gabon\source\repos\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+C:\Users\gabon\source\repos\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
+C:\Users\gabon\source\repos\Autoservice\Autoservice\obj\Debug\Autoservice.Form2.resources
