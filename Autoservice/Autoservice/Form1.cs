@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.IO;
+
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,18 +13,13 @@ namespace Autoservice
 {
     public partial class Form1 : Form
     {
-        string Line, path = @"C:\Users\gabon\source\repos\Autoservice\Autoservice\Resources\clients.txt";
-        string[] array;
-        int linesCnt;
-        int CurrentRow;
+
         public Form1()
         {
             InitializeComponent();
             this.MinimumSize = this.Size;
             comboBox1.SelectedIndex = 0;
             comboBox2.SelectedIndex = 0;
-            linesCnt = File.ReadAllLines(path).Length;
-            array = new string[linesCnt];
             filltable(comboBox1.SelectedIndex, comboBox2.SelectedIndex);
         }
         public void filltable(int index, int sort)
